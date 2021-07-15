@@ -1,0 +1,23 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+
+#myCarousel{
+    background-color:aqua;
+    height:600px;
+}
+#myCarousel img{
+    margin-top:100px;
+    height:400px;
+    width:400px
+}
+#games{
+    height:800px;
+}
